@@ -11,7 +11,7 @@
   <pubDate>Wed, 04 Oct 2023 16:19:53 &#43;0900</pubDate>
   <author>Author</author>
   <guid>https://example.org/posts/publication/</guid>
-  <description><![CDATA[Peer-reviewed paper 2023 Hiroki Kanagawa, Takafumi Moriya, Yusuke Ijima, &ldquo;VC-T: Streaming Voice Conversion Based on Neural Transducer,&rdquo; Proc. Interspeech 2023, pp. 2088-2092, Aug. 2023 @ Dubrin, Ireland. , poster Kenichi Fujita, Takanori Ashihara, Hiroki Kanagawa, Takafumi Moriya, Yusuke Ijima, &ldquo;Zero-Shot Text-to-Speech Synthesis Conditioned Using Self-Supervised Speech Representation Model,&rdquo; Proc. ICASSP Workshops 2023, pp. 1-5, Jun, 2023 Hiroki Kanagawa and Yusuke Ijima, &ldquo;Enhancement of Text-Predicting Style Token With Generative Adversarial Network for Expressive Speech Synthesis,&rdquo; Proc.]]></description>
+  <description><![CDATA[Peer-reviewed paper 2024 Hiroki Kanagawa, Takafumi Moriya, Yusuke Ijima, &ldquo;Pre-training Neural Transducer-based Streaming Voice Conversion for Faster Convergence and Alignment-free Training,&rdquo; Proc. Interspeech 2024, pp. 2755-2759, Aug. 2024 @ Kos, Greece. Hiroki Kanagawa and Yusuke Ijima, &ldquo;Knowledge Distillation from Self-Supervised Representation Learning Model with Discrete Speech Units for Any-to-Any Streaming Voice Conversion,&rdquo; Proc. Interspeech 2024, pp. 4393-4397, Aug. 2024 @ Kos, Greece. 2023 Hiroki Kanagawa, Takafumi Moriya, Yusuke Ijima, &ldquo;VC-T: Streaming Voice Conversion Based on Neural Transducer,&rdquo; Proc.]]></description>
 </item>
 </channel>
 </rss>
